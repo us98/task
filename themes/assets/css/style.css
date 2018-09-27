@@ -1,0 +1,15 @@
+/*Content*/
+.main-wrapper{
+	width: 100%;
+	margin: 0;
+	padding:0;
+}
+.mh-4{
+	min-height: 400px;
+}
+.mh-5{
+	min-height: 500px;
+}
+.mh-6{
+	min-height: 600px;
+}
